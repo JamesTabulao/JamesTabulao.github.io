@@ -1,0 +1,16 @@
+.par{
+    text-align: center;
+    font-size: 40px;
+}
+
+.par1{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 1%;
+}
+
+.pic{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1%;
+}

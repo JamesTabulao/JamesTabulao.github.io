@@ -1,0 +1,334 @@
+body {
+    background-color: rgb(33, 62, 83);
+    position: relative;
+    padding-bottom: 100px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.name{
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+    top: 157px;
+    left: 358px;
+}
+
+h1{
+    font-family: 'Inter';
+    color: rgb(255, 185, 102);
+    font-size: 75px;
+    position: absolute;
+    top: 50px;
+    left: 358px;
+}
+
+h2{
+    font-family: 'Inter';
+    color: #ffb966;
+    font-size: 40px;
+    position: absolute;
+    top: 715px;
+    left: 358px;
+}
+
+h3{
+    font-family: 'Inter';
+    color: rgb(255, 185, 102);
+    font-size: 40px;
+    position: absolute;
+}
+
+h4{
+    font-family: 'Inter';
+    color: rgb(255, 185, 102);
+    font-size: 40px;
+    position: absolute;
+}
+
+.Pic {
+    width: 250px;
+    border-radius: 60%;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.box{
+    position: relative;
+    top: 25px;
+    left: 350px;
+    width: 556px;
+    height: 272px;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 25px;
+}
+
+.info{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 28px;
+line-height: 150%;
+color: white;
+
+position: absolute;
+width: 488px;
+height: 211px;
+left: 35px;
+top: 2px;
+}
+
+.fav{
+    position: absolute;
+    left: 358px;
+    top: 820px;
+}
+
+.fav2{
+    position: absolute;
+    left: 358px;
+    top: 1100px;
+}
+
+.pic1{
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    border-radius: 25px;
+}
+
+.pic2{
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    border-radius: 25px;
+    left: 280px;
+}
+
+.pic3{
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    border-radius: 25px;
+    left: 560px;
+}
+
+.pic4{
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    border-radius: 25px;
+}
+
+.pic5{
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    border-radius: 25px;
+    left: 280px;
+}
+
+.pic6{
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    border-radius: 25px;
+    left: 560px;
+}
+
+.fre{
+    position: absolute;
+    left: 358px;
+    top: 1470px;
+}
+
+.a{
+    position: absolute;
+    top: 110px;
+}
+.a1{
+    width: 119px;
+    height: 119px;
+    border-radius: 100px; 
+}
+
+.p1{
+    position: relative;
+    color: white;
+    top: 105px;
+    left: 150px;
+}
+
+.jay{
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 700;
+}
+.jay1{
+    position: relative;
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    top: -27px;
+}
+
+.b{
+    position: absolute;
+    top: 260px;
+}
+.b1{
+    width: 119px;
+    height: 119px;
+    border-radius: 100px;
+}
+
+.p2{
+    position: relative;
+    color: white;
+    top: 135px;
+    left: 150px;
+}
+
+.bry{
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 700;
+}
+.bry1{
+    position: relative;
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    top: -27px;
+}
+
+.c{
+    position: absolute;
+    top: 410px;
+}
+.c1{
+    width: 119px;
+    height: 119px;
+    border-radius: 100px;
+}
+
+.p3{
+    position: relative;
+    color: white;
+    top: 158px;
+    left: 150px;
+}
+
+.eds{
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.eds1{
+    position: relative;
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    top: -27px;
+}
+
+.d{
+    position: absolute;
+    top: 560px;
+}
+.d1{
+    width: 119px;
+    height: 119px;
+    border-radius: 100px;
+}
+
+.p4{
+    position: relative;
+    color: white;
+    top: 182px;
+    left: 150px;
+}
+
+.rei{
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 700;
+}
+.rei1{
+    position: relative;
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    top: -27px;
+}
+
+.e{
+    position: absolute;
+    top: 710px;
+}
+.e1{
+    width: 119px;
+    height: 119px;
+    border-radius: 100px;
+}
+
+.p5{
+    position: relative;
+    color: white;
+    top: 208px;
+    left: 150px;
+}
+
+.ron{
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.ron1{
+    position: relative;
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    top: -27px;
+}
+
+
+.hob{
+    position: absolute;
+    left: 358px;
+    top: 2360px;
+}
+
+.list{
+    position: relative;
+    top: 100px;
+    font-weight: 400;
+    line-height: 70px;
+}
+
+ul li::before {
+    content: "•";
+    font-size: 70px;
+    color: rgba(96, 126, 170, 1);
+    padding-right: 5px;
+    position: relative;
+    left: -30px;
+    top: 10px;
+}
+
+ul{
+    list-style: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Inter';
+    font-size: 30px;
+}
